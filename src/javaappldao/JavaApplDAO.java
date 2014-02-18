@@ -7,7 +7,7 @@
 package javaappldao;
 
 /**
- *
+ *dsdqsdqssdqs
  * @author ayeb
  */
 public class JavaApplDAO {
